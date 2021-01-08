@@ -14,3 +14,9 @@ A repository showing problems running BarbaJS and Parcel-Bundler together.
 ## To run using Parcel-Bundler's Server
 1. `npm run start` to start parcel server locally
 2. Open the server's address (Default: http://localhost:1234)
+
+## Observations
+The page transitions do not work when running on Parcel's server while they work on VS Code Live Server.
+
+## Extra Credits
+This repo is a modification of CodeGrid's Page Transition demo *https://github.com/codegridweb/Page-Transition-Using-BarbaJS-And-GSAP*
